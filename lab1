@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+  <meta charset=" utf-8">
+  <title>Об авторе</title>
+ <head> 
+     <style>
+h2{
+color: aqua} </style>
+<h1> Пару любимых цитат </h1>
+<body> Ад пуст, все бесы сдесь. 
+<br>  Яблоко от яблони недалеко падает   </body>
+<h1> "Коротко обо мне"</h1>
+<body> Катаюсь на скейтборде
+        <br> Посвещаю этому много свободного времени </body>
+<h1> Увлечения</h1>
+<body> 1. Спорт 
+<br> 2. Чтение
+<br> 3. Сноубординг
+</body>
+<h1> "Текущие проекты" </h1>
+<body> 
+     <a href="https://dfisun.github.io/webdev-s2019/">"Основы веб-программирования"</a> 
+</body>
+     <body>
+        <p><img src="C:\Users\user\Downloads\everest.jpg" alt="Хочу там побывать" width="500" height="333"></p>        </body>
+<body>
+     <a href="work3.1.html">Дневник разработки</a>
+         
+</body>
