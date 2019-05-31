@@ -1,15 +1,11 @@
-<!DOCTYPE html> 
-<html>
- <head>
-  <meta charset=" utf-8">
-  <title>Об авторе</title>
- <head> 
- <style>
+ @import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+nav{background-color: #333; /* краткая форма записи значения #333333 */
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: red; text-transform: capitalize;
-    font-family: "Times New Roman", Times, sans-serif;
-
-} 
+   font-family: "Times New Roman", Times, sans-serif;} 
+   q{font-family: 'Indie Flower', cursive}
 article {width:75%;margin: 0 auto}
 
 body{
@@ -18,35 +14,62 @@ body{
 
 
    .text *{background-color:white}
-   @import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
-   
-</style>
-
-
-
-
-
-
-
-
-
-<h2> Пару любимых цитат </h2>
-<body> Ад пуст, все бесы сдесь. 
-<br>  Яблоко от яблони недалеко падает.   </body>
-<h3> "Коротко обо мне"</h3>
-<body> Катаюсь на скейтборде
-        <br> Посвещаю этому много свободного времени </body>
-<h4> Увлечения</h4>
-<body> 1. Спорт 
-<br> 2. Чтение
-<br> 3. Сноубординг
-</body>
-<h5> "Текущие проекты" </h5>
-<body> 
-     <a href="https://dfisun.github.io/webdev-s2019/">"Основы веб-программирования"</a> 
-</body>
-     <body>
-        <p><img src="C:\Users\user\Downloads\everest.jpg" alt="Хочу там побывать" width="500" height="333"></p>        </body>
+   nav a {
+    display: inline-block;
+    padding: 0.7em 1em;
+    text-decoration: none;
+    color:green;
+   }
+   body, nav, ul {
+    margin: 0;
+   }
+   #nav {
+    background-color: #333;
+   }
+   .nav-list {
+    list-style: none;
+   }
+   .nav-item {
+    display: inline;
+   }
+   .nav-link {
+    display: inline-block;
+    padding: 0.7em 1em;
+    text-decoration: none;
+    color: #ccc;
+   }
+   .nav-link:hover {
+    background-color: #000;
+   }
+   .nav-link.active {
+    background-color: #777;
+    color: #fff;
+   }
+   body, nav, ul {
+    margin: 0;
+   }
+   #nav {
+    background-color: #333;
+   }
+   .nav-list {
+    list-style: none;
+   }
+   .nav-item {
+    display: inline;
+   }
+   .nav-link {
+    display: inline-block;
+    padding: 0.7em 1em;
+    text-decoration: none;
+    color: #ccc;
+   }
+   .nav-link:hover {
+    background-color: #000;
+   }
+   .nav-link.active {
+    background-color: #777;
+    color: #fff;
+   }
 <body>
      <a href="work3.1.html">Дневник разработки</a>
          
