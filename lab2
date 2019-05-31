@@ -1,0 +1,53 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+  <meta charset=" utf-8">
+  <title>Об авторе</title>
+ <head> 
+ <style>
+h1, h2, h3, h4, h5, h6 {
+    color: red; text-transform: capitalize;
+    font-family: "Times New Roman", Times, sans-serif;
+
+} 
+article {width:75%;margin: 0 auto}
+
+body{
+           background-image: url("https://cdn.freelance.ru/img/portfolio/pics/00/2B/64/2843833.jpg");
+       }
+
+
+   .text *{background-color:white}
+   @import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+   
+</style>
+
+
+
+
+
+
+
+
+
+<h2> Пару любимых цитат </h2>
+<body> Ад пуст, все бесы сдесь. 
+<br>  Яблоко от яблони недалеко падает.   </body>
+<h3> "Коротко обо мне"</h3>
+<body> Катаюсь на скейтборде
+        <br> Посвещаю этому много свободного времени </body>
+<h4> Увлечения</h4>
+<body> 1. Спорт 
+<br> 2. Чтение
+<br> 3. Сноубординг
+</body>
+<h5> "Текущие проекты" </h5>
+<body> 
+     <a href="https://dfisun.github.io/webdev-s2019/">"Основы веб-программирования"</a> 
+</body>
+     <body>
+        <p><img src="C:\Users\user\Downloads\everest.jpg" alt="Хочу там побывать" width="500" height="333"></p>        </body>
+<body>
+     <a href="work3.1.html">Дневник разработки</a>
+         
+</body>
